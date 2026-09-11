@@ -5,7 +5,7 @@
 ![Postman](https://img.shields.io/badge/Made%20with-Postman-orange?style=for-the-badge&logo=postman)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Rehabessam/QAcart-API-Project?color=red&style=for-the-badge)
 
-# QAcart API Project 🚀
+# Courses Platform – REST API End-to-End Testing 🚀
 
 This project contains the **Postman** files for API tests, along with illustrative screenshots.
 
