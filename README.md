@@ -1,4 +1,4 @@
-![QAcart API Project](banner.png)
+![QAcart API Project]
 ![GitHub repo size](https://img.shields.io/github/repo-size/Rehabessam/QAcart-API-Project?color=blue&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/Rehabessam/QAcart-API-Project?color=yellow&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Rehabessam/QAcart-API-Project?color=green&style=for-the-badge)
